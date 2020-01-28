@@ -22,7 +22,7 @@ Source : https://www.kaggle.com/c/ieee-fraud-detection
 - ?
 ## Code Colab
 ### 24/01 - 31/01 :
-- [Abraich V1](https://colab.research.google.com/drive/1EgYGXGEoy-x7bRw7eW2VmST6-6v7escN)
+- [Abraich V1](https://drive.google.com/file/d/1uMhY40rdWBZgDtl1fB02W3i_mjHnLPHE/view?usp=sharing)
 - [Bouchouat V1](https://)
 - [Hoàng V1](https://)
 - [Tounsi V1](https://)
