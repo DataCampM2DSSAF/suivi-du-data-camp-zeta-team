@@ -5,8 +5,12 @@
 - El Mehdi Bouchouat
 - Hoang Dung NGUYEN
 - Mohamed Tounsi 
-
-
+## Sujet : 
+Dans le monde électronique d'aujourd'hui, presque tout le monde fait une transaction dans un centre commercial ou lors de la réservation de billets de cinéma ou de billets d'avion, etc. Une transaction frauduleuse peut se produire dans l'un de ces endroits, ce qui pénalisera fortement le client ainsi que les entreprises. Améliorant ainsi l'efficacité des alertes de transactions frauduleuses pour des millions de personnes dans le monde et aidant des centaines de milliers d'entreprises à réduire leurs pertes de fraude et à augmenter leurs revenus.
+## Source/Useful Links
+L'IEEE-CIS fonctionne dans une variété de domaines de l'IA et de l'apprentissage automatique, y compris les réseaux de neurones profonds, les systèmes flous, le calcul évolutif et l'intelligence en essaim. Aujourd'hui, ils s'associent avec la plus grande société de services de paiement au monde, Vesta Corporation, à la recherche des meilleures solutions pour l'industrie de la prévention de la fraude.
+Les données ont été collectées à partir des transactions de commerce électronique de Vista dans le monde réel et contiennent un large éventail de fonctionnalités, du type d'appareil aux fonctionnalités du produit.
+Source : https://www.kaggle.com/c/ieee-fraud-detection
 ## Plan
 
 -
