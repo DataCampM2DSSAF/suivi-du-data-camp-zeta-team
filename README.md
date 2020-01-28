@@ -1,6 +1,6 @@
 
 # Read Me : Zeta Team 
-# Equipe : 
+## Equipe : 
 - Ayoub Abraich
 - El Mehdi Bouchouat
 - Hoang Dung NGUYEN
