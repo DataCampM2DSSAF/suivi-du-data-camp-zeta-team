@@ -16,10 +16,10 @@ Source : https://www.kaggle.com/c/ieee-fraud-detection
 - Train file of identity contains 144233 rows and 41 features.
 - Train file of transaction contains 590540 rows and 394 features.
 ## Plan
-1- Data Cleaning,Data Analysis and Feature Engineering
-2- Building Model and hyperparameter tunning
-3- ?
-4- ?
+- Data Cleaning,Data Analysis and Feature Engineering
+- Building Model and hyperparameter tunning
+- ?
+- ?
 ## Code Colab
 - [Abraich V1](https://colab.research.google.com/drive/1EgYGXGEoy-x7bRw7eW2VmST6-6v7escN)
 - [Bouchouat V1](https://)
