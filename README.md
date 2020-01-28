@@ -1,7 +1,11 @@
 
-# Read Me : Zeta Team - Ayoub Abraich , El Mehdi Bouchouat , Hoang Dung NGUYEN , Mohamed Tounsi 
+# Read Me : Zeta Team 
+# Equipe : 
+- Ayoub Abraich
+- El Mehdi Bouchouat
+- Hoang Dung NGUYEN
+- Mohamed Tounsi 
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Plan
 
