@@ -29,10 +29,21 @@ Source : https://www.kaggle.com/c/ieee-fraud-detection
 - DeviceInfo
 - id_12 - id_38
 ### The TransactionDT feature is a timedelta from a given reference datetime (not an actual timestamp).
+## Problématique
+Les exigences commerciales sont les suivantes: 
++ Si une fraude survient lors de la transaction, l'entreprise doit immédiatement bloquer la carte. 
++ Le modèle devrait éviter de ne pas commettre une fraude de transaction qui est en réalité une transaction légitime. 
++ Le modèle devrait fournir l'estimation de la probabilité qu'une transaction soit frauduleuse.
+En langage de ML, notre objectif et nos contraintes sont la mesure de performance utilisée dans cette étude de cas, c'est l'aire sous la courbe ROC. Parce que nous voulons améliorer la précision des deux classes, la courbe roc est donc une bonne option. 
+Contraintes: 
+- Le modèle doit fournir une sortie probabiliste (Le modèle doit indiquer quelle est la probabilité que la transaction appartienne à la classe de fraude)
+- Exigences de faible latence (Étant donné que les problèmes commerciaux indiquent que si le système trouve une transaction inhabituelle, il doit immédiatement bloquer la carte)
+- Minimiser les faux positifs et les faux négatifs (signifie minimiser à la fois la légitimité faussement prédite comme fraude et la fraude comme transaction légitime).
+
 ## Plan
 - Data Cleaning,Data Analysis and Feature Engineering
 - Building Model and hyperparameter tunning
-- ?
+- ? 
 - ?
 ## Code Colab
 ### 24/01 - 31/01 :
