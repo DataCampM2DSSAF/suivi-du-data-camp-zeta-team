@@ -51,7 +51,7 @@ Contraintes:
 + De nombreuses covariables ont une grande quantité de valeurs nulles spécifiquement pour les celles d'identité. Maintenant, pour la distribution des étiquettes de fraude, cela montre que 96,5% des données contiennent des transactions légitimes alors que seulement 3,5% sont des fraudes, ce qui signifie qu'il s'agit de données très déséquilibrées.
 + L'une des covariables importantes de cet ensemble de données est TransactionDT. Il s'agit d'une variable liée au temps et l'heure est en seconde :
 ![](https://miro.medium.com/max/1189/1*c2kgxgvuAs9OfTgXTRks8w.png)
-
++ Les données de test sont en avance sur le temps des données du train, nous ne ferons pas de répartition aléatoire sur les données, nous utiliserons la répartition temporelle.
 
 ## Code Colab
 ### 24/01 - 31/01 :
