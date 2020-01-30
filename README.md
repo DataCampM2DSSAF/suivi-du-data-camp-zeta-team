@@ -15,6 +15,20 @@ Source : https://www.kaggle.com/c/ieee-fraud-detection
 - The data contains 2 csv file one for transaction and another for identity.
 - Train file of identity contains 144233 rows and 41 features.
 - Train file of transaction contains 590540 rows and 394 features.
+
++ Categorical Features - Transaction
+- ProductCD
+- emaildomain
+- card1 - card6
+- addr1, addr2
+- P_emaildomain
+- R_emaildomain
+- M1 - M9
++ Categorical Features - Identity
+- DeviceType
+- DeviceInfo
+- id_12 - id_38
++ The TransactionDT feature is a timedelta from a given reference datetime (not an actual timestamp).
 ## Plan
 - Data Cleaning,Data Analysis and Feature Engineering
 - Building Model and hyperparameter tunning
