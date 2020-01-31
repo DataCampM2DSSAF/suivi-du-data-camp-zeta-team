@@ -49,8 +49,7 @@ Contraintes:
 
 ## Data Cleaning,Data Analysis and Feature Engineering
 + De nombreuses covariables ont une grande quantité de valeurs nulles spécifiquement pour les celles d'identité. Maintenant, pour la distribution des étiquettes de fraude, cela montre que 96,5% des données contiennent des transactions légitimes alors que seulement 3,5% sont des fraudes, ce qui signifie qu'il s'agit de données très déséquilibrées.
-+ L'une des covariables importantes de cet ensemble de données est TransactionDT. Il s'agit d'une variable liée au temps et l'heure est en seconde :
-![](https://miro.medium.com/max/1189/1*c2kgxgvuAs9OfTgXTRks8w.png)
++ L'une des covariables importantes de cet ensemble de données est TransactionDT. Il s'agit d'une variable liée au temps et l'heure est en seconde 
 + Les données de test sont en avance sur le temps des données du train, nous ne ferons pas de répartition aléatoire sur les données, nous utiliserons la répartition temporelle.
 
 ## Code Colab
@@ -61,7 +60,7 @@ Contraintes:
 with model=LGBM >>> Public SCORE = 0.893450
 - 3rd : All features without Drop
 with model=Light Gradient Boosting (LGB) >>> Public SCORE = 0.910894
-![](https://pasteboard.co/ISzrQkY.png)
+![](blob:https://pasteboard.co/a3ccafaa-ab3e-47f1-9bfa-ab3ab16e2b4b)
 
 ### 24/01 - 31/01 :
 - [Abraich V1](https://drive.google.com/file/d/1uMhY40rdWBZgDtl1fB02W3i_mjHnLPHE/view?usp=sharing)
