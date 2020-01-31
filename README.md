@@ -54,7 +54,8 @@ Contraintes:
 + Les données de test sont en avance sur le temps des données du train, nous ne ferons pas de répartition aléatoire sur les données, nous utiliserons la répartition temporelle.
 
 ## Code Colab
-### Submissions : 
+### Submissions :
+
 - First : V features only with model=LGBM >>> Public SCORE = 0.844118
 - 2nd : All features without : Drop=['TransactionID','ProductCD','card4','card6','P_emaildomain','R_emaildomain','DeviceInfo','DeviceType' and 'id_1 --> id_38']
 with model=LGBM >>> Public SCORE = 0.893450
