@@ -60,7 +60,7 @@ Contraintes:
 with model=LGBM >>> Public SCORE = 0.893450
 - 3rd : All features without Drop
 with model=Light Gradient Boosting (LGB) >>> Public SCORE = 0.910894
-![](https://i.ibb.co/h9y2tLx/sub.png)
+![](https://pasteboard.co/ISzrQkY.png)
 
 ### 24/01 - 31/01 :
 - [Abraich V1](https://drive.google.com/file/d/1uMhY40rdWBZgDtl1fB02W3i_mjHnLPHE/view?usp=sharing)
