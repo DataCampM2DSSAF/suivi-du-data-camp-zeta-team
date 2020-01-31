@@ -54,9 +54,18 @@ Contraintes:
 + Les données de test sont en avance sur le temps des données du train, nous ne ferons pas de répartition aléatoire sur les données, nous utiliserons la répartition temporelle.
 
 ## Code Colab
+### Submissions : 
+- First : V features only with model=LGBM >>> Public SCORE = 0.844118
+- 2nd : All features without : Drop=['TransactionID','ProductCD','card4','card6','P_emaildomain','R_emaildomain','DeviceInfo','DeviceType' and 'id_1 --> id_38']
+with model=LGBM >>> Public SCORE = 0.893450
+- 3rd : All features without Drop
+with model=Light Gradient Boosting (LGB) >>> Public SCORE = 0.910894
+
 ### 24/01 - 31/01 :
 - [Abraich V1](https://drive.google.com/file/d/1uMhY40rdWBZgDtl1fB02W3i_mjHnLPHE/view?usp=sharing)
 - [Bouchouat V1](https://drive.google.com/file/d/1Tlj7by_njwV1bbtp3oOiDu2cQRqhX6Wq/view?usp=sharing)
 - [Hoàng V1](https://)
 - [Tounsi V1](https://)
 ### 31/01 - 07/02 :
+- [Abraich V2](https://drive.google.com/file/d/1EnnFj_tLB6ma8uypxrK1D88gFgE6DqMk/view?usp=sharing)
+
