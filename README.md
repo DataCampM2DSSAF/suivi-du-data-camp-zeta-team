@@ -73,3 +73,17 @@ with model=Light Gradient Boosting (LGB) >>> Public SCORE = 0.910894
 ### 31/01 - 07/02 :
 - [Abraich V2](https://drive.google.com/file/d/1EnnFj_tLB6ma8uypxrK1D88gFgE6DqMk/view?usp=sharing)
 
+### 14/02 : 
+
+- Voir l'influence de la variable dist 2 (dont les données manquantes > 90%) sur isFraud.
+- Groupby (P_email et R_email)
+- Tester l'influence de (NA P_email) sur isFraud.
+- 2nd approche --> remplacer les valeurs manquantes de card(2,3,5,6) par "mode".
+- card 1 et 4 pair.
+- Addr = Addr1 + Addr2 (voir package tick).
+- Supprimer les variables (>80% de NA) et remplacer les variables qualitatives par Mode, et quantitatives par Med.
+
+Pre-processing : 
+- One hot code.
+- supprimer outliers.
+- Multi colinéarité.
