@@ -98,4 +98,5 @@ Pre-processing :
         ◦ Encoder (GAN )
 - Hoang :
         ◦ Catboost : 
-        ◦ Variables cachées 
+        ◦ Variables cachées
++ Une référence qui montre la différence entre les tâches de Hoang et Ayoub : https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
