@@ -87,3 +87,15 @@ Pre-processing :
 - One hot code.
 - supprimer outliers.
 - Multi colinéarité.
+## 28/02 :
+
+- Mehdi & Mohammed : 
+        ◦ Lasso pour sélection de variables + modèles simples 
+        ◦ Regrouper les variables importantes
+        ◦ One hot coding  :
+- Ayoub :
+        ◦ Analyse des variables importantes avec LGB, Randomforest => max 100 variables puis DL : variables cachées 
+        ◦ Encoder (GAN )
+- Hoang :
+        ◦ Catboost : 
+        ◦ Variables cachées 
