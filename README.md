@@ -94,8 +94,7 @@ Pre-processing :
         ◦ Regrouper les variables importantes
         ◦ One hot coding  :
 - Ayoub :
-        ◦ Analyse des variables importantes avec LGB, Randomforest => max 100 variables puis DL : variables cachées 
-        ◦ Encoder (GAN )
+        ◦ Analyse des variables importantes avec XGB , LGB ~~ variables cachées 
 - Hoang :
         + Catboost : 
         + Variables cachées
