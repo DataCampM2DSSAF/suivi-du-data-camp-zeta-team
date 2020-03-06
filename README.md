@@ -97,6 +97,6 @@ Pre-processing :
         ◦ Analyse des variables importantes avec LGB, Randomforest => max 100 variables puis DL : variables cachées 
         ◦ Encoder (GAN )
 - Hoang :
-        ◦ Catboost : 
-        ◦ Variables cachées
+        + Catboost : 
+        + Variables cachées
 + Une référence qui montre la différence entre les tâches de Hoang et Ayoub : https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
