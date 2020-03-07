@@ -99,3 +99,14 @@ Pre-processing :
         + Catboost : 
         + Variables cachées
 + Une référence qui montre la différence entre les tâches de Hoang et Ayoub : https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+
+## 06/03 : 
+### Abraich : 
++ LGBM & XGB score :
+![](https://image.noelshack.com/fichiers/2020/10/6/1583545162-resultats.png)
++ Features importance : 
+        ++ LGBM : 
+        ![](https://image.noelshack.com/fichiers/2020/10/6/1583545353-lgb-im.png)
+        ++ XGB : 
+        ![](https://image.noelshack.com/fichiers/2020/10/6/1583545406-xgb-im.png)
+
