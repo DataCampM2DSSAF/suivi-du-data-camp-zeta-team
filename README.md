@@ -119,6 +119,6 @@ L'objectif pour la semaine :
 - Finir la rédaction de la première partie sur l'analyse des données.
 
 Organisation :
-- Hoang, Mehdi & Mohammed : Commencer directement sur le rapport.
-- Ayoub : Finir le contenu pour la modélisation simple : Ridge, LASSO, GLM, ... pour 2 jours. Intervenir sur le rapport dès le 19 mars
+- Hoang, Mehdi & Mohammed : Commencer directement sur le rapport
+- Ayoub : Finir le contenu pour la modélisation simple : Ridge, LASSO, GLM, ... pour 2 jours. Intervenir sur le rapport dès le 19 mars.
 
