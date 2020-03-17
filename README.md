@@ -122,3 +122,40 @@ Organisation :
 - Hoang, Mehdi & Mohammed : Commencer directement sur le rapport
 - Ayoub : Finir le contenu pour la modélisation simple : Ridge, LASSO, GLM, ... pour 2 jours. Intervenir sur le rapport dès le 19 mars.
 
+## 17/03
+A first plan for the report 
+
+0.	Introduction
+Purpose of the competition
+Structure of the report and Summary of used techniques and their results
+ 
+1.	Data description
+Copy full description of the data with modification
+Add some points if needed 
+
+2.	Exploratory data analysis
+Explain that we analyze variables in group by their meaning  and want to deduce some cross effect if possible
+a.	Target variables: very short but needed
+b.	Transaction DT and Delta variables: need to explore more because no 
+c.	TransactionAmt and ProductCD: already included in the notebook
+d.	Card variables: already included in the notebook but need to shorten 
+e.	Address, distance and email domain variables: same as above
+f.	C-counting variables: same as above
+g.	M-matching variables: same as above 
+h.	Ensemble of Vega variables: need to release 1 graphique on their PCA
+
+3.	Data preparation 
+Summary all the preparation based on the 2nd section
+New engineering variables: those variables are based on personal view, experience or kaggle notebook reference with explaination
+Quick talk about the possible modeling on this problem regrading of the data structure -> Deep learning may not a good choice. Tree model should work, also the classical model should be tested in order to see their performance, their weakness and strength in a real problematic. 
+4.	Classical Machine Learning models
+Present shortly the result -> conclude on the performance
+Analyze the result -> Even the bad performance by comparing with the leaderboard, we may find some interesting points that could be useful for the preprocessing of the next advanced modeling
+5.	Boosting tree-based models
+Brief introduction of the theorical party. Linked the traditional GB with the 2  (or 3) advanced boosting model : LGBM, catboost (XGB)
+a.	LGBM
+The context depending on intervener
+b.	catboost
+		The context depending on intervener
+6.	Final model (if enough time) combine all the modeling and the engineering above to build the best model
+7.	Conclusion
