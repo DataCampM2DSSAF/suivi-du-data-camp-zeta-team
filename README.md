@@ -159,3 +159,9 @@ b.	catboost
 		The context depending on intervener
 6.	Final model (if enough time) combine all the modeling and the engineering above to build the best model
 7.	Conclusion
+
+### 18/03
+L'objectif pour la fin de la semaine : 
++ Mohammed and Mehdi : finir la modélisation classique et la rédaction du point 3.4 - 3.8
++ Hoang et Ayoub : le reste jusqu'à la fin de la section 4 
++ Introduction pourrait être complétée après. 
