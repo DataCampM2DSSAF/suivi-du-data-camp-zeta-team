@@ -122,6 +122,16 @@ Organisation :
 - Hoang, Mehdi & Mohammed : Commencer directement sur le rapport
 - Ayoub : Finir le contenu pour la modélisation simple : Ridge, LASSO, GLM, ... pour 2 jours. Intervenir sur le rapport dès le 19 mars.
 
+Quelque submissions pour les modèles utilisés :
+- elastic net + knn : 
+![](https://image.noelshack.com/fichiers/2020/14/2/1585659492-knn-elnet.png)
+
+- elastic net + random forest :
+![](https://image.noelshack.com/fichiers/2020/14/2/1585659731-rf-elnet.png)
+
+- lasso + random forest : 
+![](https://image.noelshack.com/fichiers/2020/14/2/1585659796-rf-lasso.png)
+
 ## 17/03
 A first plan for the report 
 
