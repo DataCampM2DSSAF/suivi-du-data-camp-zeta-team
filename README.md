@@ -4,7 +4,13 @@
 - Ayoub Abraich
 - El Mehdi Bouchouat
 - Hoang Dung NGUYEN
-- Mohamed Tounsi 
+- Mohamed Tounsi
+
+## Github structrure
+- Personal works : inclut toutes les versions de code de chaque membre dans un premier temps
+- Code merged works : un dossier bien structuré qui comprend les versions finales de notre projet
+- References : L'ensemble des références pour notre travail
+
 ## Sujet : 
 Dans le monde électronique d'aujourd'hui, presque tout le monde fait une transaction dans un centre commercial ou lors de la réservation de billets de cinéma ou de billets d'avion, etc. Une transaction frauduleuse peut se produire dans l'un de ces endroits, ce qui pénalisera fortement le client ainsi que les entreprises. Améliorant ainsi l'efficacité des alertes de transactions frauduleuses pour des millions de personnes dans le monde et aidant des centaines de milliers d'entreprises à réduire leurs pertes de fraude et à augmenter leurs revenus.
 ## Source/Useful Links
